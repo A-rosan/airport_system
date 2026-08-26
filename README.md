@@ -1,8 +1,6 @@
-airport_system
+## 📁 Project Structure
 
-A console-based Airport Management System built with C# and .NET, demonstrating Object-Oriented Programming (OOP) concepts.
-
-📁 Project Structure
+```text
 airport_system/
 │
 ├── Enums/
@@ -38,35 +36,44 @@ airport_system/
 │
 ├── Program.cs
 └── airport_system.csproj
-✈️ Features
-Add, view, and delete flights
-Add, view, and remove passengers
-Add, view, and delete employees
-Change flight status
-Validate flight capacity
-Validate passenger and employee information
-Perform employee-specific duties
-Send notifications to passengers and employees
-Handle errors using custom exceptions
-🧱 OOP Concepts Used
-Encapsulation
-Inheritance
-Polymorphism
-Abstraction
-Interfaces
-Enums
-Factory Design Pattern
-Custom Exceptions
-Collections
-LINQ
-▶️ How to Run
+```
 
-Make sure you have the .NET SDK installed.
+## 🛠️ Features
 
-Run the project using:
+- Add, view, and delete flights
+- Add, view, and remove passengers
+- Add, view, and delete employees
+- Change flight status
+- Validate flight capacity
+- Validate passenger and employee information
+- Perform employee-specific duties
+- Send notifications to passengers and employees
+- Handle errors using custom exceptions
 
+## 🧱 OOP Concepts Used
+
+- Encapsulation
+- Inheritance
+- Polymorphism
+- Abstraction
+- Interfaces
+- Enums
+- Factory Design Pattern
+- Custom Exceptions
+- Collections
+- LINQ
+
+## ▶️ How to Run
+
+Make sure you have the **.NET SDK** installed.
+
+```bash
 dotnet run
-🖥️ System Menu
+```
+
+## 🖥️ System Menu
+
+```text
 1. Add a flight
 2. Add a passenger
 3. Add Employee
@@ -80,10 +87,12 @@ dotnet run
 11. Perform Employee Duty
 12. Send Employee Notification
 13. Exit
-🎯 Project Purpose
+```
 
-This project was created to practice and demonstrate C# Object-Oriented Programming concepts by developing a practical Airport Management System with validation, custom exceptions, interfaces, inheritance, polymorphism, and the Factory Design Pattern.
+## 🎯 Project Purpose
 
-👨‍💻 Author
+This project was created to practice and demonstrate **C# Object-Oriented Programming** concepts by developing a practical Airport Management System with validation, custom exceptions, interfaces, inheritance, polymorphism, and the Factory Design Pattern.
 
-Abdullah Al-Rosan
+## 👨‍💻 Author
+
+**Abdullah Al-Rosan**
